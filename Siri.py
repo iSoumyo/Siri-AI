@@ -189,9 +189,7 @@ if __name__ == "__main__":
 
         elif 'when is your birthday' in query:
             speak("My creator created me on twenty seventh october ,so it's my birthday ")  
-
-        elif 'meeting' in query:
-            speak("It was Started on 12 am")      
+     
 
         elif 'thank you' in query:
             speak("welcome Sir,always at your service")
@@ -203,9 +201,3 @@ if __name__ == "__main__":
 
         elif 'wishme' in query:
             speak("good morning Mr sen")
-
-        elif 'my address' in query:
-            speak("It's confidetial") 
-
-        elif 'command function override 10 what is my address' in query:
-            speak("Your Adress")    
