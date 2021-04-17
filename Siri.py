@@ -200,4 +200,4 @@ if __name__ == "__main__":
             speak("Good afternoon Sir")
 
         elif 'wishme' in query:
-            speak("good morning Mr sen")
+            speak("good morning Mr #name")
